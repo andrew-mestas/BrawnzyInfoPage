@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100);
+
+.section{
+	font-size: 6em;
+	text-align: center;
+	color: #cc9900;
+	font-family: 'Lato', sans-serif;
+	position: relative;
+}
+
+.fp-controlArrow.fp-prev {
+    left: 15px;
+    width: 0;
+    border-width: 38.5px 34px 38.5px 0;
+    border-color: transparent #cc9900 transparent transparent;
+}
+
+.fp-controlArrow.fp-next {
+    right: 15px;
+    border-width: 38.5px 0 38.5px 34px;
+    border-color: transparent transparent transparent #cc9900;
+}
+.devpic {
+	max-width: 80% !important;
+}
+
+.yahya{
+	   margin-left: 16% !important; 
+}
+.git:hover, .link:hover{
+	color: black;
+}
+.git, .link{
+	color: #cc9900;
+}
+
+/*#sweets {
+	position: absolute;
+	bottom: -400px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	transition: all 1.1s ease-out;
+	-webkit-transition: all 1.1s ease-out;
+}
+/*section two*/
+/*.fp-viewing-1 #sweets {
+	bottom: -40px;
+}
+when it reaches section 3
+.fp-viewing-2 #sweets {
+	bottom: 0;*/
+/*}*/
